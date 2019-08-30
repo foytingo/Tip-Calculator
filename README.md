@@ -1,3 +1,3 @@
 # Tip-Calculator
-"Tip Calculator" from 100 days of Swift exercise projects on samlvu.com.
+I am newbie and I did it for practice. This project is "Tip Calculator" from 100 days of Swift projects on samlvu.com.
 
